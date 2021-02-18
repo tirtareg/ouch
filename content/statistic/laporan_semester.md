@@ -17,6 +17,5 @@ Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik
 
 Berikut adalah laporan semester Subbagian Registrasi dan Statisik.
 
--   2021-2022 Ganjil - Genap
--   2020-2021 Ganjil - Genap
--   2019-2020 Ganjil - Genap
+-   2020-2021 [Ganjil](http://202101.netlify.app/) - Genap
+-   2019-2020 Ganjil - [Genap](http://192002.netlify.app)

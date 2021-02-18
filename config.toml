@@ -38,11 +38,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     url = "/statistic/"
     name = "Statistik"
     weight = 3
+
+[[menu.main]]
+    url = "http://tirtareg.netlify.app"
+    name = "Dashboard"
+    weight = 4
     
 [[menu.main]]
     url = "/tags/"
     name = "Tags"
-    weight = 4
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

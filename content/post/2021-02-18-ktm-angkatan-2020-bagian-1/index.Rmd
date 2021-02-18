@@ -22,6 +22,8 @@ Berikut adalah persyaratan untuk mengambil KTM.
 
 Demikian informasi yang dapat kami sampaikan. Jika ada pertanyaan, silakah hubungi kami [**di sini**](http://wa.me/6281311734542){target="_blank"}
 
+<br>
+
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 library(readxl)
 ktm <- read_excel("G:/My Drive/# REGISTRASI DAN STATISTIK/KTM 2020/REPORT KTM UNTIRTA_2511.xlsx")

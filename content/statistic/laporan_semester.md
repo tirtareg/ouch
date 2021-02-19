@@ -7,7 +7,7 @@ title: Laporan Semester
 
 Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik. Laporan ini terdiri atas 7 bagian, yaitu:
 
-1.  **Mahasiswa.** Bagian pertama ini berisi rekapitulasi data-data tentang mahasiswa baru di awal tahun akademik, mahasiswa aktif dan tidak aktif di setiap semester.
+1.  **Mahasiswa.** Bagian pertama ini berisi rekapitulasi data-data tentang mahasiswa baru di awal tahun akademik, mahasiswa aktif, dan tidak aktif di setiap semester.
 2.  **Daya Tampung**. Bagian kedua berisi daya tampung jenjang Diploma, Sarjana, dan Pascasarjana dalam dua tahun terakhir.
 3.  **Dosen**. Bagian ini berisi data-data dan rekapitulasi dosen PNS dan dosen non PNS yang aktif.
 4.  **Rasio Dosen dan Mahasiswa**. Berisi data tentang rasio dosen dan mahasiswa di setiap program studi dan rasio ideal di setiap program studi.

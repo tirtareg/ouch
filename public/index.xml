@@ -6,13 +6,17 @@
     <description>Recent content on Subbagian Registrasi dan Statistik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>KTM Angkatan 2020 (bagian 1)</title>
-      <link>/2021/02/18/ktm-angkatan-2020-bagian-1/</link>
+      <link>/news/ktm-angkatan-2020-bagian-1/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/02/18/ktm-angkatan-2020-bagian-1/</guid>
+      <guid>/news/ktm-angkatan-2020-bagian-1/</guid>
       <description>Diinformasikan kepada mahasiswa Angkatan 2020 yang namanya ada di tabel berikut bahwa KTM anda telah bisa diambil di BNI Untirta. Mahasiswa Untirta Wajib memiliki KTM untuk mempermudah Pelayanan Administrasi. KTM bisa diambil kapan saja di jam kerja kantor BNI Untirta dengan mematuhi protokol kesehatan.
 Berikut adalah persyaratan untuk mengambil KTM.
 e-KTP
@@ -23,20 +27,20 @@ e-KTP
     
     <item>
       <title>Laporan Semester</title>
-      <link>/statistic/laporan_semester/</link>
+      <link>/report/laporan_semester/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/statistic/laporan_semester/</guid>
+      <guid>/report/laporan_semester/</guid>
       <description>Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik. Laporan ini terdiri atas 7 bagian, yaitu:
  Mahasiswa. Bagian pertama ini berisi rekapitulasi data-data tentang mahasiswa baru di awal tahun akademik, mahasiswa aktif, dan tidak aktif di setiap semester. Daya Tampung. Bagian kedua berisi daya tampung jenjang Diploma, Sarjana, dan Pascasarjana dalam dua tahun terakhir. Dosen. Bagian ini berisi data-data dan rekapitulasi dosen PNS dan dosen non PNS yang aktif.</description>
     </item>
     
     <item>
       <title>Penyesuaian UKT di Masa Pandemi Covid-19</title>
-      <link>/2021/02/18/penyesuaian-ukt-di-masa-pandemi-covid-19/</link>
+      <link>/news/penyesuaian-ukt-di-masa-pandemi-covid-19/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/02/18/penyesuaian-ukt-di-masa-pandemi-covid-19/</guid>
+      <guid>/news/penyesuaian-ukt-di-masa-pandemi-covid-19/</guid>
       <description>Sebelum melakukan pendaftaran penyesuaian UKT, perhatikan hal-hal berikut:
 Gunakan browser Mozilla FirefoxPastikan sudah login ke mail.google.com menggunakan akun email Untirta masing-masing pendaftar di Browser Mozilla FirefoxPendaftar WAJIB menggunakan akun email Untirta masing-masing (alamat email dan NIM harus sama)Jika lupa password email Untirta, silakan hubungi helpdesk SpadaPenangguhan pembayaran UKT
 Kebijakan ini diperuntukan bagi mahasiswa yang tidak mendapatkan Penyesuaian UKT dan terkendala dengan pembayaran UKT sehingga memerlukan penangguhan pembayaran UKT.</description>
@@ -44,13 +48,13 @@ Kebijakan ini diperuntukan bagi mahasiswa yang tidak mendapatkan Penyesuaian UKT
     
     <item>
       <title>Laporan Penerimaan Mahasiswa Baru</title>
-      <link>/statistic/laporan_pmb/</link>
+      <link>/report/laporan_pmb/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/statistic/laporan_pmb/</guid>
+      <guid>/report/laporan_pmb/</guid>
       <description>Tidak semua calon mahasiswa baru Universitas Sultan Ageng Tirtayasa yang lolos seleksi masuk baik melalui jalur SNMPTN, SBMPTN, atau MANDIRI melanjutkan proses seleksi hingga resmi menjadi mahasiswa baru Untirta. Laporan ini disusun untuk memberikan gambaran banyaknya pendaftar (peminat) program studi di Untirta, banyaknya yang lolos seleksi di setiap jalur penerimaan, hingga yang resmi menjadi mahasiswa baru Untirta (mendapat NIM).
 Berikut adalah laporan penerimaan mahasiswa baru di setiap jalur penerimaan.
-  2020 SNMPTN - SBMPTN - SMMPTN - Semua Jalur</description>
+  2020 SNMPTN - SBMPTN- SMMPTN- Semua Jalur</description>
     </item>
     
   </channel>

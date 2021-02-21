@@ -6,7 +6,11 @@
     <description>Recent content in Statistics on Subbagian Registrasi dan Statistik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/statistic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/statistic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Laporan Semester</title>
       <link>/statistic/laporan_semester/</link>
@@ -25,7 +29,7 @@
       <guid>/statistic/laporan_pmb/</guid>
       <description>Tidak semua calon mahasiswa baru Universitas Sultan Ageng Tirtayasa yang lolos seleksi masuk baik melalui jalur SNMPTN, SBMPTN, atau MANDIRI melanjutkan proses seleksi hingga resmi menjadi mahasiswa baru Untirta. Laporan ini disusun untuk memberikan gambaran banyaknya pendaftar (peminat) program studi di Untirta, banyaknya yang lolos seleksi di setiap jalur penerimaan, hingga yang resmi menjadi mahasiswa baru Untirta (mendapat NIM).
 Berikut adalah laporan penerimaan mahasiswa baru di setiap jalur penerimaan.
-  2020 SNMPTN - SBMPTN - SMMPTN - Semua Jalur</description>
+  2020 SNMPTN - SBMPTN- SMMPTN- Semua Jalur</description>
     </item>
     
   </channel>

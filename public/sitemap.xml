@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tentang_kami/about/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tentang_kami/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/2020/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -39,11 +54,6 @@
   
   <url>
     <loc>/report/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
